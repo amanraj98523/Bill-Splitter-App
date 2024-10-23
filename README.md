@@ -23,8 +23,8 @@ Fullstack-Web Application
 
 ## Deployed App
 
-- Frontend: https:https:https://sparkly-frangipane-e93b2d.netlify.app/
-- Backend: https:
+- Deploy-link:- https:https:https://sparkly-frangipane-e93b2d.netlify.app/
+  
 
 ## Directory Structure
 
