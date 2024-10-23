@@ -23,7 +23,7 @@ Fullstack-Web Application
 
 ## Deployed App
 
-- Deploy-link:- https:https:https://sparkly-frangipane-e93b2d.netlify.app/
+- Deploy-link:- https://venerable-blini-c04074.netlify.app/
   
 
 ## Directory Structure
