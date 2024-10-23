@@ -23,7 +23,7 @@ Fullstack-Web Application
 
 ## Deployed App
 
-- Frontend: https:https://mellifluous-faun-55532d.netlify.app/
+- Frontend: https:https:https://sparkly-frangipane-e93b2d.netlify.app/
 - Backend: https:
 
 ## Directory Structure
