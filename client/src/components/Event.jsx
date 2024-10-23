@@ -93,12 +93,12 @@ const Event = () => {
         {eventDetails && (
           <div>
             <h4>{eventDetails.eventName}</h4>
-            <h5>Total Bill: ${eventDetails.totalBill}</h5>
+            <h5>Total Bill: ₹{eventDetails.totalBill}</h5>
             <h5>Participants:</h5>
             <ul>
               {eventDetails.participants.map((participant) => (
                 <li key={participant.name}>
-                  {participant.name}: ${participant.balance}
+                  {participant.name}: ₹{participant.balance}
                 </li>
               ))}
             </ul>
@@ -106,7 +106,7 @@ const Event = () => {
             <ul>
               {eventDetails.expenses.map((expense, index) => (
                 <li key={index}>
-                  {expense.description}: ${expense.amount}, Paid By: {expense.paidBy}
+                  {expense.description}: ₹{expense.amount}, Paid By: {expense.paidBy}
                 </li>
               ))}
             </ul>
