@@ -98,34 +98,6 @@ frontend/
 - MongoDB for flexible data storage.
 - JWT for secure user authentication.
 
-## API Endpoints
-
-- To get all the projects
-
-- https://backend-render-7zzl.onrender.com/projects
-
-- To get userdata (email, password, name, id) #token req
-
-- https://backend-render-7zzl.onrender.com/user
-
-- To update password #token required
-
-- https://backend-render-7zzl.onrender.com/user/changePassword/
-
-- to update project fields #token required
-
-- https://backend-render-7zzl.onrender.com/project/update
-
-- POST /login - login in a user
-
-- POST /register - create a user account
-
-- POST/logout -logout a user account
-
-- POST/send-otp -to send the otp
-
-- POST/order and POST/verfy - to the payment integration
-
 
 ## Desktop View
 ![shiksha na ruke](https://github.com/user-attachments/assets/19ac5878-73cb-4a73-96a7-94af1614b136)
@@ -139,9 +111,5 @@ frontend/
 ![Screenshot 2024-09-02 124514](https://github.com/user-attachments/assets/5fbf6e9d-b081-4e46-a315-dc371a642ffb)
 
 ## Contributors
+- Contributor:- [Aman Raj](https://github.com/amanraj98523)
 
-Thanks to these wonderful people who have contributed to this project:
-
-- Team-Lead [Rohit Verma](https://github.com/rohit7979)
-- Collab-1 [Pavan Kalyan](https://github.com/PKalyanReddy)
-- Collab-2 [Pradeep Yadav](https://github.com/simply-code-it)
