@@ -1,1 +1,102 @@
 # Bill-Splitter-App
+
+## Introduction
+The **Bill Splitter App** simplifies expense splitting for group events like dinners or trips. Users can add expenses, assign who paid, and the app calculates how much each participant owes or is owed. By automating calculations and minimizing transactions, it offers a hassle-free solution for managing shared expenses, making it ideal for group gatherings.
+
+## Project Type
+Fullstack-Web Application
+
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
+	
+</div>
+
+## Deployed App
+
+- Frontend: https:https://mellifluous-faun-55532d.netlify.app/
+- Backend: https:
+
+## Directory Structure
+
+```
+Bill-Splitter-App
+backend/
+│
+├── config/
+│
+├── controllers/
+│
+├── Models/
+│
+├── routes/
+│
+├── server.js
+└── package.json
+
+frontend/
+│
+├── src/
+│ ├── Components/
+│ │
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ ├── index.html
+│ ├── main.jsx
+│ ├── .eslintrc.cjs
+│ ├── .gitignore
+│ ├── package.json
+│ └── README.md
+```
+
+## Features
+
+### Features of our website.
+
+- **Responsive Design Seamless Experience:** Ensures a smooth and visually appealing experience across all devices, including desktops and mobile.
+- **Event and Participant Management:** Users can easily create events, add participants, and input individual expenses to accurately track spending.
+- **Balance Calculation Automated Splitting:** Automatically calculates how much each participant owes or is owed, simplifying the settlement process for group expenses.
+- **Expense Sharing Customizable Splitting:** Allows users to split expenses evenly or assign customized percentages to each participant, offering flexibility.
+- **Dark Mode User-Friendly Interface:** Includes a dark mode toggle for a more comfortable user experience in low-light conditions..
+
+
+
+## Technology Stack
+
+### Front-end:
+- React: The app is built using React for the frontend, as indicated by the presence of React-related files (App.jsx, main.jsx).
+- Vite: Vite is used as the frontend build tool (vite.config.js and references in package.json).
+- CSS: Styling is managed through regular CSS files (App.css, index.css).
+- JavaScript (JSX): The components are written in JSX (App.jsx, Event.jsx), a React-specific syntax.
+- Assets: There are assets like SVGs stored in the public and src/assets folders (vite.svg, react.svg).
+
+### Back-end:
+- Node.js & Express: The backend is powered by Node.js with the Express framework, as indicated by server.js.
+- MongoDB (Mongoose): The app uses MongoDB as the database, with Mongoose for database modeling and schema definition (db.config.js, event.model.js).
+- REST API: There are Express routes for handling API requests (expenseRoutes.js) and controllers for managing business logic (event.controller.js).
+
+
+## Desktop View
+![shiksha na ruke](https://github.com/user-attachments/assets/19ac5878-73cb-4a73-96a7-94af1614b136)
+![support](https://github.com/user-attachments/assets/1ba8257b-eb04-4a93-b583-beed329f4362)
+![footer](https://github.com/user-attachments/assets/d2b59eb8-2c8a-4073-a880-d92a5aad1611)
+![profile](https://github.com/user-attachments/assets/909bf00a-60bf-4ebd-bf19-43097072f047)
+![contact](https://github.com/user-attachments/assets/a1177cd7-0f4f-4745-9def-1272281c7756)
+![fundraiser details](https://github.com/user-attachments/assets/d24f6f79-ed88-445e-a3e6-485c049a694e)
+![Screenshot 2024-09-02 124857](https://github.com/user-attachments/assets/3c418191-904d-4c76-a767-56f9f55aa8b4)
+![Screenshot 2024-09-02 124449](https://github.com/user-attachments/assets/170ba669-62e6-464a-b9fa-8af76d9ef0a3)
+![Screenshot 2024-09-02 124514](https://github.com/user-attachments/assets/5fbf6e9d-b081-4e46-a315-dc371a642ffb)
+
+## Contributors
+- Contributor:- [Aman Raj](https://github.com/amanraj98523)
+
