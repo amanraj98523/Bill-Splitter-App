@@ -15,7 +15,7 @@ const Event = () => {
 
   const createEvent = async () => {
     try {
-      const response = await axios.post('http://localhost:8100/bill/events', {
+      const response = await axios.post('https://bill-splitter-app.onrender.com/bill/events', {
         eventName,
         participants: participants.split(',').map(name => ({ name, balance: 0 }))
       });
@@ -33,7 +33,7 @@ const Event = () => {
       return;
     }
     try {
-      await axios.post(`http://localhost:8100/bill/events/${eventId}/expenses`, {
+      await axios.post(`https://bill-splitter-app.onrender.com/bill/events/${eventId}/expenses`, {
         description,
         amount: Number(amount),
         paidBy,
@@ -52,7 +52,7 @@ const Event = () => {
       return;
     }
     try {
-      const response = await axios.get(`http://localhost:8100/bill/events/${eventId}`);
+      const response = await axios.get(`https://bill-splitter-app.onrender.com/bill/events/${eventId}`);
       setEventDetails(response.data);
     } catch (error) {
       console.error(error);
