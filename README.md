@@ -87,15 +87,10 @@ frontend/
 
 
 ## Desktop View
-![shiksha na ruke](https://github.com/user-attachments/assets/19ac5878-73cb-4a73-96a7-94af1614b136)
-![support](https://github.com/user-attachments/assets/1ba8257b-eb04-4a93-b583-beed329f4362)
-![footer](https://github.com/user-attachments/assets/d2b59eb8-2c8a-4073-a880-d92a5aad1611)
-![profile](https://github.com/user-attachments/assets/909bf00a-60bf-4ebd-bf19-43097072f047)
-![contact](https://github.com/user-attachments/assets/a1177cd7-0f4f-4745-9def-1272281c7756)
-![fundraiser details](https://github.com/user-attachments/assets/d24f6f79-ed88-445e-a3e6-485c049a694e)
-![Screenshot 2024-09-02 124857](https://github.com/user-attachments/assets/3c418191-904d-4c76-a767-56f9f55aa8b4)
-![Screenshot 2024-09-02 124449](https://github.com/user-attachments/assets/170ba669-62e6-464a-b9fa-8af76d9ef0a3)
-![Screenshot 2024-09-02 124514](https://github.com/user-attachments/assets/5fbf6e9d-b081-4e46-a315-dc371a642ffb)
+![Screenshot 2024-10-23 124857](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-1.png)
+![Screenshot 2024-10-23 124449](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-2.png)
+![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-3.png)
+![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-4.png)
 
 ## Contributors
 - Contributor:- [Aman Raj](https://github.com/amanraj98523)
