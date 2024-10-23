@@ -87,10 +87,10 @@ frontend/
 
 
 ## Desktop View
-![Screenshot 2024-09-02 124857](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-1.png)
-![Screenshot 2024-09-02 124449](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-2.png)
-![Screenshot 2024-09-02 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-3.png)
-![Screenshot 2024-09-02 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-4.png)
+![Screenshot 2024-10-23 124857](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-1.png)
+![Screenshot 2024-10-23 124449](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-2.png)
+![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-3.png)
+![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-4.png)
 
 ## Contributors
 - Contributor:- [Aman Raj](https://github.com/amanraj98523)
