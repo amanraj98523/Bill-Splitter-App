@@ -92,6 +92,7 @@ frontend/
 ![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-2.png)
 ![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-22.png)
 ![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-3.png)
+![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-4.png)
 
 ## Contributors
 - Contributor:- [Aman Raj](https://github.com/amanraj98523)
